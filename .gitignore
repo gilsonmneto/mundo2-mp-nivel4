@@ -5,13 +5,14 @@
 /tmp
 /out-tsc
 /bazel-out
-/livros-angular/node_modules
 
-/.vscode
-/.angular
+
+/livros-angular/.vscode
+/livros-angular/.angular
+.dccache
 
 # Node
-/node_modules
+/livros-angular/node_modules
 npm-debug.log
 yarn-error.log
 
