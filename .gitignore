@@ -5,6 +5,7 @@
 /tmp
 /out-tsc
 /bazel-out
+/livros-angular/node_modules
 
 /.vscode
 /.angular
