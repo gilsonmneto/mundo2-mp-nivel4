@@ -9,23 +9,23 @@ export class ControleLivrosService {
     {
       codigo: 1,
       codEditora: 1,
-      titulo: 'Use a Cabeça: Java',
-      resumo: 'Use a Cabeça! Java é uma experiência completa de aprendizado em programação orientada a objectos (OO) e Java.',
-      autores: ['Bert Bates', 'Kathy Sierra']
+      titulo: 'Título 1',
+      resumo: 'Resumo 1',
+      autores: ['Autor 1.1', 'Autor 1.2']
     },
     {
       codigo: 2,
       codEditora: 2,
-      titulo: 'Java, como Progamar',
-      resumo: 'Milhões de alunos e profissionais aprenderam programação e desenvolvimento de software com os livros Deitel',
-      autores: ['Paul Deitel', 'Harvey Deitel']
+      titulo: 'Título 2',
+      resumo: 'Resumo 2',
+      autores: ['Autor 2.1', 'Autor 2.2', 'Autor 2.3']
     },
     {
       codigo: 3,
       codEditora: 3,
-      titulo: 'Livro 3',
-      resumo: 'Resumo do Livro 3',
-      autores: ['Autor 5']
+      titulo: 'Título 3',
+      resumo: 'Resumo 3',
+      autores: ['Autor 3.1']
     }
   ];
 
